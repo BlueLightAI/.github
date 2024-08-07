@@ -1,31 +1,24 @@
-BlueLightAI Cobalt software automatically generates insights into model performance, and suggestions for improvement. In minutes. 
+# BlueLightAI
 
-- Easily start analysis for a model with a few lines of code. Cobalt readily supports text, image, and tabular datasets.
-- Automatically identify problematic groups of data in your model, saving days or weeks of data scientist troubleshooting effort.
-- Use the groups discovered by Cobalt to target the most important data for retraining or fine-tuning, and create test cases to catch future regressions.
+BlueLightAI Cobalt software automatically generates insights into model
+performance, and suggestions for improvement.
+
+- Easily start analysis for a model with a few lines of code. Cobalt readily
+  supports text, image, and tabular datasets.
+- Automatically identify problematic groups of data in your model, saving days
+  or weeks of data scientist troubleshooting effort.
+- Use the groups discovered by Cobalt to target the most important data for
+  retraining or fine-tuning, and create test cases to catch future regressions.
   
-**Installation**
+![Cobalt UI](cobalt_ui.png)
 
-https://bluelightai.com/download-1
+### Get Cobalt
 
+Visit [our website](https://bluelightai.com/download-1) to request access to Cobalt and see more information.
 
-**Cobalt integrates with industry standard platforms**
-Integrations include:
+## Community
 
-- AWS
-- Azure
-- GCP
-- DataBricks
-- Weights and Biases
-- ...and more coming soon
-
-
-
-**Community**
-
-- https://bluelightai.com
-
-- Slack Community Coming Soon
+- <https://bluelightai.com>
 
 - [LinkedIn](https://www.linkedin.com/company/bluelightai/)
 
