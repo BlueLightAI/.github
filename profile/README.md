@@ -1,7 +1,12 @@
 # BlueLightAI
 
-BlueLightAI Cobalt software automatically generates insights into model
-performance, and suggestions for improvement.
+Welcome to BlueLightAI's GitHub! We build tools to help AI developers
+understand and improve their models. 
+
+## Cobalt
+
+BlueLightAI Cobalt runs inside your Jupyter notebook and automatically
+generates insights into model performance, giving suggestions for improvement.
 
 - Easily start analysis for a model with a few lines of code. Cobalt readily
   supports text, image, and tabular datasets.
