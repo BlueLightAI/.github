@@ -5,7 +5,7 @@ understand and improve their models and datasets.
 
 ## Cobalt
 
-With a straightforward python API, BluelightAI Cobalt illuminates training data, model errors, and embeddings:
+With a straightforward Python API, BluelightAI Cobalt illuminates training data, model errors, and embeddings:
 
 - Easily start analysis for a model or dataset with a few lines of code. Cobalt readily
   supports text, image, and tabular datasets.
