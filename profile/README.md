@@ -32,11 +32,11 @@ comparisons easy in Python:
   or weeks of data scientist troubleshooting effort. 
 
 - Quickly compare models and assess the deployment risk of each model for your
-  business case, like for Ecommerce Product Search 
+  use case, like this case comparing embedding models for product search:
 
 ![Model comparison table](model_comparison.png)
 
-- Use the groups discovered by Cobalt to track the most important data for
+- Use the groups discovered by Cobalt to track the most important metrics for
   model improvement: curate your data, retrain, fine-tune, or develop intuitive
   test cases based on Cobalt's intelligent groups.
 
