@@ -34,23 +34,22 @@ comparisons easy in Python:
 - Quickly compare models and assess the deployment risk of each model for your
   use case, like this case comparing embedding models for product search:
 
-![Model comparison table](model_comparison.png)
+<img src="model_comparison.png" width="1000px" alt="Model comparison table" />
 
 - Use the groups discovered by Cobalt to track the most important metrics for
   model improvement: curate your data, retrain, fine-tune, or develop intuitive
   test cases based on Cobalt's intelligent groups.
 
-![Model improvement table](fine_tuning_impact.png)
+<img src="fine_tuning_impact.png" width="900px" alt="Model improvement metrics" />
 
 - Explore an interactive visualization of your dataset, model errors, or
   embedding model using our TDA-based dimensionality reduction:
 
-![Cobalt UI](cobalt_ui.png)
-
+<img src="cobalt_ui.png" width="1000px" alt="Cobalt UI" />
 
 ### Generate a Table to Evaluate and Compare Models
 
-![Code to evaluate and compare models](model_comparison_code.png)
+<img src="model_comparison_code.png" width="800px" alt="Code to evaluate and compare models" />
 
 ## Community
 
