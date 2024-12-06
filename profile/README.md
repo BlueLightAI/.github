@@ -33,14 +33,14 @@ BluelightAI Cobalt illuminates model errors and makes model performance comparis
 ![Cobalt UI](cobalt_ui.png)
 
 
-### Comparing Models
-<img width="1101" alt="Screenshot 2024-12-06 at 11 22 02 AM" src="https://github.com/user-attachments/assets/68a83367-5b5d-4d2d-8b0b-294046ebb26f">
+### Generate a Table to Evaluate and Compare Models:
+<img width="1096" alt="Screenshot 2024-12-06 at 11 50 10 AM" src="https://github.com/user-attachments/assets/079a2805-e8cb-4812-bde4-75c28c29adc2">
 
 ## Community
 
 - [Slack](https://join.slack.com/t/bluelightaicommunity/shared_invite/zt-2uj0iu5lh-5WgutuwH82RxAOwuq8ptqg)
 
-- [Website] <https://bluelightai.com>
+- [Website](https://bluelightai.com)
 
 - [LinkedIn](https://www.linkedin.com/company/bluelightai/)
 
