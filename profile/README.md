@@ -8,14 +8,14 @@ help AI developers illuminate and improve their models and data.
 The time you have to understand and fix your model’s errors is limited,
 expensive and hard to scale to the size of your dataset. Cobalt automates the
 otherwise painful step of looking for patterns in how your models are
-performing! We're here to make [topological data
+performing. We're here to make [topological data
 analysis](https://www.nature.com/articles/srep01236) easy to use.
 
 ### Setup
 
 For the latest instructions to [pip
 install](https://pypi.org/project/cobalt-ai/) cobalt-ai for your environment,
-visit our [docs](https://docs.cobalt.bluelightai.com/)
+visit our [docs](https://docs.cobalt.bluelightai.com/setup.html).
 
 ## Cobalt
 
@@ -29,7 +29,7 @@ comparisons easy in Python:
 <img src="get_started.png" width="500px" alt="Get started with Cobalt" />
 
 - Automatically identify problematic groups of data in your model, saving days
-  or weeks of data scientist troubleshooting effort. 
+  or weeks of troubleshooting effort. 
 
 - Quickly compare models and assess the deployment risk of each model for your
   use case, like this case comparing embedding models for product search:
