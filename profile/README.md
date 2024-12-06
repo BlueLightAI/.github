@@ -26,7 +26,7 @@ comparisons easy in Python:
   dataset with a few lines of code. Cobalt readily supports text, image, and
   tabular datasets.
   
-![Get started with Cobalt](get_started.png | width=500)
+<img src="get_started.png" width="500px" alt="Get started with Cobalt" />
 
 - Automatically identify problematic groups of data in your model, saving days
   or weeks of data scientist troubleshooting effort. 
